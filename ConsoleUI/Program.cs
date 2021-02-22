@@ -5,6 +5,8 @@ using System;
 
 namespace ConsoleUI
 {
+    //SOLID
+    //oPEN cLOSED Principle : yaptıgın yazılıma yeni bir özellik ekliyorsan mevcuttaki hiç bir koduna dokunamazsın 
     class Program
     {
         static void Main(string[] args)
